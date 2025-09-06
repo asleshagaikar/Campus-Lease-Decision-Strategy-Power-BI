@@ -1,0 +1,356 @@
+Year,Training_Location,Region,Students,Student_FTE
+2021,Abbotsford,Lower Mainland/Southwest,12,2.1
+2023,Abbotsford,Lower Mainland/Southwest,7,1.225
+2020,Abbotsford,Lower Mainland/Southwest,5,0.875
+2023,Abbotsford,Thompson-Okanagan,1,0.175
+2020,Abbotsford,Thompson-Okanagan,1,0.175
+2021,Abbotsford,Vancouver Island/Coast,2,0.35
+2020,Abbotsford,Vancouver Island/Coast,1,0.175
+2022,Abbotsford,,14,2.45
+2023,Abbotsford,,5,0.875
+2020,Abbotsford,,4,0.7
+2020,Campbell River,Cariboo,1,0.733333333
+2024,Campbell River,Lower Mainland/Southwest,2,1.333333333
+2020,Campbell River,Vancouver Island/Coast,14,9.2
+2024,Campbell River,Vancouver Island/Coast,16,10.17777778
+2020,Campbell River,,1,0.533333333
+2021,Chilliwack,Lower Mainland/Southwest,5,0.875
+2022,Chilliwack,Lower Mainland/Southwest,10,1.75
+2023,Chilliwack,Lower Mainland/Southwest,13,2.275
+2024,Chilliwack,Lower Mainland/Southwest,15,3.5
+2020,Chilliwack,Lower Mainland/Southwest,15,2.625
+2021,Chilliwack,,7,1.225
+2022,Chilliwack,,1,0.175
+2023,Cranbrook,Kootenay,7,1.225
+2023,Cranbrook,Thompson-Okanagan,1,0.175
+2023,Cranbrook,,1,0.175
+2021,Dawson Creek,Cariboo,1,0.7
+2022,Dawson Creek,Cariboo,1,0.2
+2021,Dawson Creek,Northeast,9,4.233333333
+2022,Dawson Creek,Northeast,4,0.8
+2021,Dawson Creek,Vancouver Island/Coast,1,0.7
+2022,Dawson Creek,Vancouver Island/Coast,1,0.2
+2021,Dawson Creek,,4,2.8
+2022,Dawson Creek,,4,0.8
+2020,JIBC Chilliwack Campus,Cariboo,2,1.033333333
+2023,JIBC Chilliwack Campus,Cariboo,4,1.425
+2024,JIBC Chilliwack Campus,Cariboo,4,0.602777778
+2020,JIBC Chilliwack Campus,Kootenay,2,0.793333333
+2021,JIBC Chilliwack Campus,Kootenay,2,0.9
+2022,JIBC Chilliwack Campus,Kootenay,1,0.2
+2024,JIBC Chilliwack Campus,Kootenay,1,0.9
+2020,JIBC Chilliwack Campus,Lower Mainland/Southwest,137,56.95059199
+2021,JIBC Chilliwack Campus,Lower Mainland/Southwest,89,35.55833333
+2022,JIBC Chilliwack Campus,Lower Mainland/Southwest,159,61.04114754
+2023,JIBC Chilliwack Campus,Lower Mainland/Southwest,146,54.44166667
+2024,JIBC Chilliwack Campus,Lower Mainland/Southwest,176,78.23888889
+2022,JIBC Chilliwack Campus,Nechako,1,0.131147541
+2023,JIBC Chilliwack Campus,Nechako,1,0.175
+2024,JIBC Chilliwack Campus,North Coast,1,0.311111111
+2020,JIBC Chilliwack Campus,Northeast,1,0.175
+2021,JIBC Chilliwack Campus,Northeast,2,0.35
+2022,JIBC Chilliwack Campus,Northeast,1,0.175
+2023,JIBC Chilliwack Campus,Northeast,2,1.075
+2020,JIBC Chilliwack Campus,Thompson-Okanagan,5,2.125
+2021,JIBC Chilliwack Campus,Thompson-Okanagan,4,1.441666667
+2022,JIBC Chilliwack Campus,Thompson-Okanagan,13,3.301666667
+2023,JIBC Chilliwack Campus,Thompson-Okanagan,7,1.95
+2024,JIBC Chilliwack Campus,Thompson-Okanagan,12,4.041666667
+2020,JIBC Chilliwack Campus,Vancouver Island/Coast,2,1.6
+2021,JIBC Chilliwack Campus,Vancouver Island/Coast,6,2.85
+2022,JIBC Chilliwack Campus,Vancouver Island/Coast,4,1.675
+2023,JIBC Chilliwack Campus,Vancouver Island/Coast,3,0.55
+2020,JIBC Chilliwack Campus,,3,1.733333333
+2021,JIBC Chilliwack Campus,,3,0.55
+2022,JIBC Chilliwack Campus,,7,2.475
+2023,JIBC Chilliwack Campus,,4,0.916666667
+2024,JIBC Chilliwack Campus,,3,1.708333333
+2020,JIBC Kelowna Campus,Cariboo,6,2.901666667
+2021,JIBC Kelowna Campus,Cariboo,9,2.65
+2022,JIBC Kelowna Campus,Cariboo,5,1.65
+2023,JIBC Kelowna Campus,Cariboo,9,3.2
+2024,JIBC Kelowna Campus,Cariboo,12,2.511111111
+2020,JIBC Kelowna Campus,Kootenay,15,5.966666667
+2021,JIBC Kelowna Campus,Kootenay,10,2.5
+2022,JIBC Kelowna Campus,Kootenay,13,3.325
+2023,JIBC Kelowna Campus,Kootenay,15,5.141666667
+2024,JIBC Kelowna Campus,Kootenay,44,9.496111111
+2020,JIBC Kelowna Campus,Lower Mainland/Southwest,13,5.901666667
+2021,JIBC Kelowna Campus,Lower Mainland/Southwest,10,4.425
+2022,JIBC Kelowna Campus,Lower Mainland/Southwest,23,7.725
+2023,JIBC Kelowna Campus,Lower Mainland/Southwest,8,2.45
+2024,JIBC Kelowna Campus,Lower Mainland/Southwest,23,4.401666667
+2021,JIBC Kelowna Campus,Nechako,3,1.808333333
+2022,JIBC Kelowna Campus,Nechako,3,0.525
+2023,JIBC Kelowna Campus,Nechako,1,0.175
+2024,JIBC Kelowna Campus,Nechako,2,0.388888889
+2020,JIBC Kelowna Campus,North Coast,3,0.525
+2021,JIBC Kelowna Campus,North Coast,2,1.8
+2022,JIBC Kelowna Campus,North Coast,6,1.975
+2023,JIBC Kelowna Campus,North Coast,2,1.1
+2024,JIBC Kelowna Campus,North Coast,3,0.330555556
+2020,JIBC Kelowna Campus,Northeast,7,2.65
+2021,JIBC Kelowna Campus,Northeast,3,1.441666667
+2022,JIBC Kelowna Campus,Northeast,5,2.675
+2023,JIBC Kelowna Campus,Northeast,2,0.4
+2024,JIBC Kelowna Campus,Northeast,4,1.230555556
+2020,JIBC Kelowna Campus,Thompson-Okanagan,112,43.87166667
+2021,JIBC Kelowna Campus,Thompson-Okanagan,88,30.89166667
+2022,JIBC Kelowna Campus,Thompson-Okanagan,127,51.90833333
+2023,JIBC Kelowna Campus,Thompson-Okanagan,135,48.83333333
+2024,JIBC Kelowna Campus,Thompson-Okanagan,177,65.25722222
+2020,JIBC Kelowna Campus,Vancouver Island/Coast,4,1.95
+2021,JIBC Kelowna Campus,Vancouver Island/Coast,6,1.8
+2022,JIBC Kelowna Campus,Vancouver Island/Coast,6,1.775
+2024,JIBC Kelowna Campus,Vancouver Island/Coast,4,0.544444444
+2020,JIBC Kelowna Campus,,16,5.093333333
+2021,JIBC Kelowna Campus,,6,2.225
+2022,JIBC Kelowna Campus,,14,3.891666667
+2023,JIBC Kelowna Campus,,10,6.425
+2024,JIBC Kelowna Campus,,15,3.256111111
+2021,JIBC Maple Ridge Campus,Cariboo,1,0.175
+2022,JIBC Maple Ridge Campus,Cariboo,1,0.175
+2024,JIBC Maple Ridge Campus,Cariboo,3,0.330555556
+2020,JIBC Maple Ridge Campus,Kootenay,1,0.175
+2023,JIBC Maple Ridge Campus,Kootenay,1,0.175
+2024,JIBC Maple Ridge Campus,Kootenay,3,0.233333333
+2020,JIBC Maple Ridge Campus,Lower Mainland/Southwest,30,5.25
+2021,JIBC Maple Ridge Campus,Lower Mainland/Southwest,28,4.9
+2022,JIBC Maple Ridge Campus,Lower Mainland/Southwest,35,6.125
+2023,JIBC Maple Ridge Campus,Lower Mainland/Southwest,72,12.775
+2024,JIBC Maple Ridge Campus,Lower Mainland/Southwest,83,13.10555556
+2020,JIBC Maple Ridge Campus,North Coast,1,0.175
+2023,JIBC Maple Ridge Campus,North Coast,2,0.35
+2020,JIBC Maple Ridge Campus,Northeast,1,0.175
+2024,JIBC Maple Ridge Campus,Northeast,4,0.311111111
+2020,JIBC Maple Ridge Campus,Thompson-Okanagan,1,0.175
+2021,JIBC Maple Ridge Campus,Thompson-Okanagan,2,0.35
+2023,JIBC Maple Ridge Campus,Thompson-Okanagan,1,0.175
+2024,JIBC Maple Ridge Campus,Thompson-Okanagan,11,1.186111111
+2020,JIBC Maple Ridge Campus,Vancouver Island/Coast,1,0.175
+2022,JIBC Maple Ridge Campus,Vancouver Island/Coast,2,0.35
+2023,JIBC Maple Ridge Campus,Vancouver Island/Coast,1,0.175
+2024,JIBC Maple Ridge Campus,Vancouver Island/Coast,8,0.622222222
+2022,JIBC Maple Ridge Campus,,1,0.175
+2023,JIBC Maple Ridge Campus,,1,0.175
+2024,JIBC Maple Ridge Campus,,3,0.466666667
+2020,JIBC New Westminster Campus,Cariboo,3,0.686904762
+2021,JIBC New Westminster Campus,Cariboo,5,0.848333333
+2022,JIBC New Westminster Campus,Cariboo,6,2
+2023,JIBC New Westminster Campus,Cariboo,2,1.075
+2024,JIBC New Westminster Campus,Cariboo,7,0.875
+2020,JIBC New Westminster Campus,Kootenay,6,0.780238095
+2021,JIBC New Westminster Campus,Kootenay,2,0.941666667
+2022,JIBC New Westminster Campus,Kootenay,2,0.281666667
+2023,JIBC New Westminster Campus,Kootenay,3,1.25
+2024,JIBC New Westminster Campus,Kootenay,4,1.133333333
+2020,JIBC New Westminster Campus,Lower Mainland/Southwest,329,99.68783169
+2021,JIBC New Westminster Campus,Lower Mainland/Southwest,258,72.96571429
+2022,JIBC New Westminster Campus,Lower Mainland/Southwest,314,106.1259524
+2023,JIBC New Westminster Campus,Lower Mainland/Southwest,379,132.4132475
+2024,JIBC New Westminster Campus,Lower Mainland/Southwest,410,155.2763947
+2020,JIBC New Westminster Campus,Nechako,6,0.508333333
+2021,JIBC New Westminster Campus,Nechako,1,0.175
+2022,JIBC New Westminster Campus,Nechako,2,0.323333333
+2024,JIBC New Westminster Campus,Nechako,2,0.311111111
+2020,JIBC New Westminster Campus,North Coast,4,2.271428571
+2021,JIBC New Westminster Campus,North Coast,7,2.145238095
+2022,JIBC New Westminster Campus,North Coast,1,0.466666667
+2023,JIBC New Westminster Campus,North Coast,1,0.175
+2022,JIBC New Westminster Campus,Northeast,2,1.075
+2024,JIBC New Westminster Campus,Northeast,2,0.311111111
+2020,JIBC New Westminster Campus,Thompson-Okanagan,18,3.447088949
+2021,JIBC New Westminster Campus,Thompson-Okanagan,11,3.080238095
+2022,JIBC New Westminster Campus,Thompson-Okanagan,13,3.065
+2023,JIBC New Westminster Campus,Thompson-Okanagan,10,1.79547619
+2024,JIBC New Westminster Campus,Thompson-Okanagan,12,4.56031746
+2020,JIBC New Westminster Campus,Vancouver Island/Coast,22,2.992539683
+2021,JIBC New Westminster Campus,Vancouver Island/Coast,9,2.885238095
+2022,JIBC New Westminster Campus,Vancouver Island/Coast,8,1.939761905
+2023,JIBC New Westminster Campus,Vancouver Island/Coast,16,4.921623731
+2024,JIBC New Westminster Campus,Vancouver Island/Coast,15,5.155873016
+2020,JIBC New Westminster Campus,,29,7.381904762
+2021,JIBC New Westminster Campus,,12,2.995
+2022,JIBC New Westminster Campus,,11,2.825
+2023,JIBC New Westminster Campus,,30,10.37666667
+2024,JIBC New Westminster Campus,,21,5.527222222
+2020,JIBC Victoria Campus,Cariboo,1,0.175
+2021,JIBC Victoria Campus,Cariboo,2,0.35
+2022,JIBC Victoria Campus,Cariboo,1,0.175
+2023,JIBC Victoria Campus,Cariboo,1,0.175
+2023,JIBC Victoria Campus,Cariboo,3,1.116666667
+2024,JIBC Victoria Campus,Cariboo,1,0.133333333
+2020,JIBC Victoria Campus,Kootenay,7,2.71
+2021,JIBC Victoria Campus,Kootenay,2,0.908333333
+2022,JIBC Victoria Campus,Kootenay,2,1.075
+2023,JIBC Victoria Campus,Kootenay,1,0.766666667
+2024,JIBC Victoria Campus,Kootenay,5,1.163888889
+2020,JIBC Victoria Campus,Lower Mainland/Southwest,21,7.36547619
+2021,JIBC Victoria Campus,Lower Mainland/Southwest,17,5.233333333
+2022,JIBC Victoria Campus,Lower Mainland/Southwest,22,5.975
+2023,JIBC Victoria Campus,Lower Mainland/Southwest,11,3.133333333
+2023,JIBC Victoria Campus,Lower Mainland/Southwest,3,1.441666667
+2024,JIBC Victoria Campus,Lower Mainland/Southwest,21,6.008333333
+2022,JIBC Victoria Campus,Nechako,2,0.35
+2023,JIBC Victoria Campus,Nechako,1,0.175
+2023,JIBC Victoria Campus,Nechako,1,0.766666667
+2024,JIBC Victoria Campus,Nechako,3,0.288888889
+2020,JIBC Victoria Campus,North Coast,1,0.175
+2022,JIBC Victoria Campus,North Coast,3,0.525
+2023,JIBC Victoria Campus,North Coast,1,0.175
+2024,JIBC Victoria Campus,North Coast,7,0.894444444
+2020,JIBC Victoria Campus,Northeast,2,1.775
+2021,JIBC Victoria Campus,Northeast,4,0.725
+2022,JIBC Victoria Campus,Northeast,1,0.766666667
+2023,JIBC Victoria Campus,Northeast,1,0.6
+2024,JIBC Victoria Campus,Northeast,3,0.233333333
+2020,JIBC Victoria Campus,Thompson-Okanagan,5,1.253571429
+2021,JIBC Victoria Campus,Thompson-Okanagan,2,1.075
+2022,JIBC Victoria Campus,Thompson-Okanagan,4,1.425
+2023,JIBC Victoria Campus,Thompson-Okanagan,3,0.525
+2023,JIBC Victoria Campus,Thompson-Okanagan,2,0.941666667
+2024,JIBC Victoria Campus,Thompson-Okanagan,6,1.144444444
+2020,JIBC Victoria Campus,Vancouver Island/Coast,143,45.6418254
+2021,JIBC Victoria Campus,Vancouver Island/Coast,119,37.64880952
+2022,JIBC Victoria Campus,Vancouver Island/Coast,142,50.81547619
+2023,JIBC Victoria Campus,Vancouver Island/Coast,87,26.99761905
+2023,JIBC Victoria Campus,Vancouver Island/Coast,31,11.85
+2024,JIBC Victoria Campus,Vancouver Island/Coast,166,58.14444444
+2020,JIBC Victoria Campus,,12,4.525
+2021,JIBC Victoria Campus,,7,1.816666667
+2022,JIBC Victoria Campus,,18,6.858333333
+2023,JIBC Victoria Campus,,9,2.866666667
+2023,JIBC Victoria Campus,,3,1.708333333
+2024,JIBC Victoria Campus,,10,4.094444444
+2022,Kamloops,Cariboo,1,0.9
+2024,Kamloops,Cariboo,1,0.9
+2020,Kamloops,Kootenay,1,0.766666667
+2021,Kamloops,Kootenay,1,0.133333333
+2022,Kamloops,Kootenay,1,0.7
+2020,Kamloops,Lower Mainland/Southwest,5,2.533333333
+2021,Kamloops,Lower Mainland/Southwest,2,0.266666667
+2022,Kamloops,Lower Mainland/Southwest,1,0.9
+2024,Kamloops,Lower Mainland/Southwest,1,0.9
+2020,Kamloops,Thompson-Okanagan,10,7.666666667
+2021,Kamloops,Thompson-Okanagan,10,1.333333333
+2022,Kamloops,Thompson-Okanagan,13,9.233333333
+2024,Kamloops,Thompson-Okanagan,9,7
+2020,Kamloops,Vancouver Island/Coast,1,0.766666667
+2021,Kamloops,Vancouver Island/Coast,1,0.133333333
+2024,Kamloops,Vancouver Island/Coast,1,0.9
+2020,Kelowna,Cariboo,1,0.175
+2020,Kelowna,Thompson-Okanagan,49,8.925
+2021,Kelowna,Thompson-Okanagan,33,6.125
+2022,Kelowna,Thompson-Okanagan,39,7.7
+2023,Kelowna,Thompson-Okanagan,55,9.625
+2024,Kelowna,Thompson-Okanagan,42,9.8
+2021,Kelowna,,5,0.875
+2022,Kelowna,,21,3.675
+2023,Kelowna,,1,0.35
+2024,Kelowna,,1,0.233333333
+2023,Nanaimo,Vancouver Island/Coast,10,1.75
+2020,Online,Cariboo,16,2.289285714
+2021,Online,Cariboo,6,0.458333333
+2022,Online,Cariboo,13,1.09
+2023,Online,Cariboo,9,0.626666667
+2024,Online,Cariboo,3,0.3
+2020,Online,Kootenay,11,1.747619048
+2021,Online,Kootenay,11,1.133333333
+2022,Online,Kootenay,13,1.336666667
+2023,Online,Kootenay,20,2.066666667
+2024,Online,Kootenay,6,0.6
+2020,Online,Lower Mainland/Southwest,154,38.06534142
+2021,Online,Lower Mainland/Southwest,149,17.67595238
+2022,Online,Lower Mainland/Southwest,214,18.64015873
+2023,Online,Lower Mainland/Southwest,211,24.71428571
+2024,Online,Lower Mainland/Southwest,223,24.9552381
+2020,Online,Nechako,9,1.216666667
+2021,Online,Nechako,3,0.25
+2022,Online,Nechako,5,0.5
+2023,Online,Nechako,5,0.533333333
+2020,Online,North Coast,7,1.285714286
+2021,Online,North Coast,4,0.728571429
+2022,Online,North Coast,4,0.466666667
+2023,Online,North Coast,1,0.133333333
+2024,Online,North Coast,3,0.333333333
+2020,Online,Northeast,6,0.6
+2021,Online,Northeast,11,1.133333333
+2022,Online,Northeast,6,0.6
+2023,Online,Northeast,1,0.1
+2024,Online,Northeast,2,0.2
+2020,Online,Thompson-Okanagan,61,8.075
+2021,Online,Thompson-Okanagan,35,2.861349206
+2022,Online,Thompson-Okanagan,91,8.351111111
+2023,Online,Thompson-Okanagan,69,8.016349206
+2024,Online,Thompson-Okanagan,70,7.606666667
+2020,Online,Vancouver Island/Coast,57,9.206349206
+2021,Online,Vancouver Island/Coast,63,5.858571429
+2022,Online,Vancouver Island/Coast,65,6.065238095
+2023,Online,Vancouver Island/Coast,67,6.736190476
+2024,Online,Vancouver Island/Coast,70,7.740952381
+2020,Online,,49,4.414285714
+2021,Online,,73,5.266666667
+2022,Online,,61,6.8
+2023,Online,,16,1.7
+2024,Online,,15,1.013333333
+2023,Port Alberni,Cariboo,1,0.9
+2021,Port Alberni,Lower Mainland/Southwest,1,0.3
+2022,Port Alberni,Lower Mainland/Southwest,2,0.775
+2024,Port Alberni,Lower Mainland/Southwest,1,0.311111111
+2022,Port Alberni,Thompson-Okanagan,1,0.175
+2023,Port Alberni,Thompson-Okanagan,1,0.175
+2021,Port Alberni,Vancouver Island/Coast,9,2.7
+2022,Port Alberni,Vancouver Island/Coast,34,9.775
+2023,Port Alberni,Vancouver Island/Coast,42,16.825
+2024,Port Alberni,Vancouver Island/Coast,24,6.455555556
+2022,Port Alberni,,11,1.925
+2023,Port Alberni,,1,0.175
+2020,Prince George,Cariboo,25,5.418333333
+2021,Prince George,Cariboo,7,4.066666667
+2022,Prince George,Cariboo,12,2.425
+2023,Prince George,Cariboo,15,4.233333333
+2024,Prince George,Cariboo,30,6.922222222
+2020,Prince George,Kootenay,1,0.3
+2021,Prince George,Kootenay,1,0.066666667
+2020,Prince George,Lower Mainland/Southwest,1,0.175
+2022,Prince George,Lower Mainland/Southwest,2,0.333333333
+2023,Prince George,Lower Mainland/Southwest,4,1.483333333
+2024,Prince George,Lower Mainland/Southwest,6,0.622222222
+2020,Prince George,Nechako,12,2.323333333
+2021,Prince George,Nechako,3,1.133333333
+2023,Prince George,Nechako,3,0.525
+2024,Prince George,Nechako,9,1.477777778
+2020,Prince George,North Coast,4,0.825
+2022,Prince George,North Coast,1,0.175
+2024,Prince George,North Coast,4,0.7
+2020,Prince George,Northeast,3,0.525
+2022,Prince George,Northeast,1,0.166666667
+2023,Prince George,Northeast,1,0.733333333
+2024,Prince George,Northeast,10,1.711111111
+2020,Prince George,Thompson-Okanagan,1,0.3
+2021,Prince George,Thompson-Okanagan,1,0.066666667
+2023,Prince George,Thompson-Okanagan,1,0.175
+2024,Prince George,Thompson-Okanagan,4,0.544444444
+2020,Prince George,Vancouver Island/Coast,1,0.175
+2024,Prince George,,2,0.155555556
+2023,Prince Rupert,Lower Mainland/Southwest,1,0.175
+2023,Prince Rupert,North Coast,10,1.75
+2023,Prince Rupert,Vancouver Island/Coast,1,0.175
+2022,Surrey,Lower Mainland/Southwest,12,2.1
+2023,Surrey,Lower Mainland/Southwest,42,7.35
+2024,Surrey,Lower Mainland/Southwest,45,10.5
+2022,Surrey,,4,0.7
+2020,Trail,Kootenay,16,2.991666667
+2021,Trail,Kootenay,6,1.8
+2022,Trail,Kootenay,6,3.466666667
+2023,Trail,Kootenay,7,1.166666667
+2024,Trail,Kootenay,7,4.8
+2020,Trail,Lower Mainland/Southwest,2,0.4
+2021,Trail,North Coast,2,0.6
+2022,Trail,North Coast,2,1.2
+2020,Trail,Northeast,1,0.2
+2020,Trail,Thompson-Okanagan,1,0.2
+2021,Trail,Thompson-Okanagan,1,0.3
+2022,Trail,Thompson-Okanagan,1,0.066666667
+2023,Trail,Thompson-Okanagan,2,0.333333333
+2024,Trail,Thompson-Okanagan,2,1.466666667
